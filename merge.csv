@@ -1,0 +1,63 @@
+,Protocol name,plane,sequence contrast,mode,sequence type
+0,MR KC1: Caput standard utredning (MRKC),SAG,T1,3D,MPRAGE
+1,MR KC2: Caput m/kontrast (MRKCK),SAG,T1,3D,SPACE
+2,MR KC3: Caput Cerebralt infarkt(MRKCINF),SAG,T1,,TSE
+3,MR KC4: Caput demyeliniserende sykdom (MRKCMS),SAG,T1,3D,SPACE
+4,MR KC5: Caput Traume (MRKCTR),SAG,T1,3D,MPRAGE
+5,MR KC6: Vaskulitt (MRKCVAS),SAG,T1,3D,SPACE
+6,MR KC7: Caput Epilepsi (MRKCEPI),SAG,T1,3D,MPRAGE
+7,MR KC8: Caput Ikke-kontrastladende tumor (MRKCGLIOP),SAG,T1,3D,MPRAGE
+8,MR KC9: Caput Cerebral infeksjon (MRKCI),SAG,T1,3D,SPACE
+9,MR KC10: Caput Postoperativ benign tumor (MRKCOPBEN),,,,
+10,MR KC11: Caput Trombektomi (RH) (MRKC11),TRA,DWI,,
+11,MR KC12: Caput Akutt cerebralt infarkt(MRKCINF+),TRA,DWI,,
+12,MR KC13: Caput Skallebasis (MRKCBASISEP),SAG,T1,,TSE
+13,MR KC15: Caput Nevrodegenerative sykdommer,SAG,T1,3D,MPRAGE
+14,MR KC16: Caput Demyeliniserende sykdom uten iv kontrast (MRKCMSUTEN),SAG,T1,3D,MPRAGE
+15,MR KC17: Caput Hydrocephalus. (MRKCFLOW),SAG,T1,3D,MPRAGE
+16,MR KC18: Caput Disseksjon (MRKCDIS),SAG,T1,,TSE
+17,MR KC21: Caput Navigasjon (MRKCNAV),,,,
+18,MR KC25: Caput Venesinus (MRKCVGR),COR,,2D,TOF
+19,MR KC25A: Caput SVT hos gravide (MRKCSVTGRA),SAG,T1,3D,MPRAGE
+20,MR KC26: Caput Sinus/venetrombose (MRKCSVT),SAG,T1,3D,MPRAGE
+21,MR KC28: Caput AVM (MRKCAVM),SAG,T1,3D,MPRAGE
+22,MR KC29: Caput Aneurysme (MRKCANEUR),,,,
+23,MR KC30: Caput Nasopharynx/ansikt (MRFA),COR,T2,,TSE
+24,MR KC33: Caput NVK (MRKCNVK),TRA,,3D,TOF
+25,MR KC39: Caput PO 48/72 timer kontrastladende tumor (MRKC39),SAG,T1,3D,MPRAGE
+26,MR KCP1: Caput Brain tumor prosjekt preoperativ,SAG,T1,3D,SPACE
+27,MR SE1: Hypofyse lesjon,SAG,T1,,
+28,MR ORB1 MR: Orbita Standard (MRORB),TRA,,,
+29,MR ORB2 MR: Orbita m/kontrast (MRORBK),TRA,,,
+30,MR ORB3 MR: Orbita. Opticus nevritt (MRORBMS),,,,
+31,"MR CPV 1: Tinningben,  CPV lesjoner",,,,
+32,"MR CPV 2: Tinningben, labyrintlesjoner",,,,
+33,MRCMK,COR,T2,,TSE
+34,MR CCCDCL1: Prolaps,,,,
+35,MR CCCDCL2: Traume,SAG,T1,,TSE
+36,MR CCCD3: Demyeliniserende sykdom,SAG,T2,,
+37,MR CCCD4: Syrinx,SAG,T1,,TSE
+38,MR CCCDCL5: Tumor ,SAG,T1,,TSE
+39,MR CCCDCL6: Postoperativ arrvev/prolaps,SAG,T1,,TSE
+40,MR CCCDCL7: Infeksjon/abscess,SAG,T1,,DIXON
+41,MR CCCDCL8: Primær bentumor,SAG,T1,,
+42,MR CCCD9: Columna/medulla infarkt,SAG,T2,,TSE
+43,MR CCCDCL10: Intramedullær/vaskulær malformasjon,SAG,T1,,TSE
+44,MR CCCDCL11: Columna drop,SAG,T1,,TSE
+45,MR CCCDCL12: Metastase/ Medullakompresjon ,SAG,T2,,TSE
+46,MR CCCDCL13: Screening,,,,
+47,MR CCCDCL14: Araknoiditt,SAG,T1,,TSE
+48,MR CCCD15: Epidural lipomatose,SAG,T1,,TSE
+49,MR CCCDCL16: Myelografi,SAG,T1,3D,VIBE
+50,MR CCCDCL17: Før vertebroplastikk ,,,,
+51,MR CCCDCL 18: Myelitt.Polyradiculitt,SAG,T1,,TSE
+52,MR CCD19: Demyeliniserende sykdom uten iv kontrast,SAG,T2,,TSE
+53,MR CC21: Cervicalcolumna Neuroswing ,TRA,,,
+54,MR CC 22: Craniocervikal overgang. Alare ligament (MRCCALARELIGAMENT),SAG,PD,,TSE
+55,MR CLP: MODIC-studien Lumbalcolumna (MRCLMODIC),SAG,,,
+56,MR PB1: Plexus brachialis. Standard,COR,T2,,
+57,MR PB2: Plexus brachialis traume,COR,T2,3D,SPACE
+58,MR PB3: Plexus brachialis tumor,COR,T2,,
+59,MR PL1: Plexus lumbosacralis standard,COR,T1,3D,VIBE
+60,MR PL2: Plexus lumbosacralis traume,COR,T1,3D,VIBE
+61,MR PL3: Plexus lumbosacralis tumor,COR,T1,3D,VIBE
